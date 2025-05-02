@@ -1,0 +1,3 @@
+([('ex2',
+   '/Users/yugijun/Documents/github/hack_receipt/chapter_4_2/dist/ex2',
+   'EXECUTABLE')],)
