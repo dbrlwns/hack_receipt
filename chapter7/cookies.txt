@@ -1,0 +1,7 @@
+choco
+raspberry
+security_level=0; PHPSESSID=eoeba1fikn600bsh7lue4ece62
+hello
+hello
+kakaotalk
+kakaotalk
