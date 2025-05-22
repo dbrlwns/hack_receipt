@@ -29,10 +29,10 @@ def discover_directory(domain):
                 if ( # 단순한 리소스들은 탐색에서 제외
                     path.startswith("#") # fragment 제외
                     or path.startswith("javascript")
-                    or path.startswith(".jpg")
-                    or path.startswith(".png")
-                    or path.startswith(".css")
-                    or path.startswith(".js")
+                    or path.endswith(".jpg")
+                    or path.endswith(".png")
+                    or path.endswith(".css")
+                    or path.endswith(".js")
                 ):
                     continue
                 elif path.startswith("/") or path.startswith("?"):
